@@ -8,6 +8,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "newpost": "node ./script/newpost.js",
+    "np": "node script/newpost_l.js",
     "offdev": "astro preferences disable devToolbar",
     "ondev": "astro preferences enable devToolbar"
   },
